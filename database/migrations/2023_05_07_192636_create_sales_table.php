@@ -23,6 +23,7 @@ class CreateSalesTable extends Migration
         });
     }
 
+
     /**
      * Reverse the migrations.
      *
